@@ -11,7 +11,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/google/renameio"
+	"github.com/google/renameio/v2"
 	"golang.org/x/text/transform"
 )
 

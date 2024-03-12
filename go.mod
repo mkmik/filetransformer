@@ -4,5 +4,5 @@ go 1.18
 
 require (
 	github.com/google/renameio/v2 v2.0.0
-	golang.org/x/text v0.3.8
+	golang.org/x/text v0.14.0
 )

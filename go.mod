@@ -1,8 +1,8 @@
 module github.com/mkmik/filetransformer
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/google/renameio/v2 v2.0.2
-	golang.org/x/text v0.3.8
+	golang.org/x/text v0.41.0
 )
